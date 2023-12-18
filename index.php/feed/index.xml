@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dovv</title>
-	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/Dovv/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>/Dovv</link>
 	<description></description>
 	<lastBuildDate>Thu, 30 Nov 2023 23:32:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,38 +21,38 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Home</title>
-		<link>/index.php/2023/11/30/home/</link>
-					<comments>/index.php/2023/11/30/home/#respond</comments>
+		<link>/Dovv/index.php/2023/11/30/home/</link>
+					<comments>/Dovv/index.php/2023/11/30/home/#respond</comments>
 		
 		<dc:creator><![CDATA[dovv]]></dc:creator>
 		<pubDate>Thu, 30 Nov 2023 23:32:53 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=13</guid>
+		<guid isPermaLink="false">/Dovv/?p=13</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2023/11/30/home/feed/</wfw:commentRss>
+					<wfw:commentRss>/Dovv/index.php/2023/11/30/home/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/index.php/2023/11/30/hello-world/</link>
-					<comments>/index.php/2023/11/30/hello-world/#comments</comments>
+		<link>/Dovv/index.php/2023/11/30/hello-world/</link>
+					<comments>/Dovv/index.php/2023/11/30/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[dovv]]></dc:creator>
 		<pubDate>Thu, 30 Nov 2023 23:02:12 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/Dovv/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2023/11/30/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/Dovv/index.php/2023/11/30/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
